@@ -6,6 +6,8 @@ screen washes to grey, replacing SA's default death cam. It also shortens the
 death sequence to ~4 seconds and turns the hospital resurrection fade-in grey
 instead of black.
 
+![Stories death camera in action](assets/deathcam.gif)
+
 Built with [plugin-sdk](https://github.com/DK22Pac/plugin-sdk). Targets
 **GTA SA 1.0 US (HOODLUM)**.
 
